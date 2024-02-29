@@ -1,0 +1,20 @@
+"value": "size must be between 7 and 8"
+Produktionsdatum
+
+Welche Klasse ist das
+Liste aus zwei wenn vorne hinten unterschiedlich
+
+Was passiert aus zwei Rädern
+Energy Class, Auto oder Reifen
+
+Subscription wird beantragt.
+
+
+Springboot Client machen um auf die Endpunktenzuzugreifen.
+
+effizienzklassen als string, die werden wir auch irgendwann brauchen
+
+Probleme:	8te bzw. 7te stelle
+		Produktionsdatum errechnen aus Lieferdatum gewünscht, Komplexität Produktion im Ausland,...
+
+Markdown oder Textdatei
